@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sayan Sarkar"
-  avatar           : "/images/mario.png"
+  avatar           : "profile.png"
   bio              : "Integrated Circuit Designer and Medtech Entrepreneur"
   location         : "Hong Kong"
   employer         : "HKUST" 
