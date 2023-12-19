@@ -8,10 +8,10 @@ redirect_from:
 
 ---
 
-# Photography 
+# Journals 
 
-# Travel 
+# Conference
 
-# Reading 
+# Book Chapters
 
-# Football
+
