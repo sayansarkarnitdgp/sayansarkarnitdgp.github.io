@@ -10,6 +10,9 @@ redirect_from:
 
 # Journals 
 
+[1] Schrödinger spectrum based continuous cuff-less blood pressure estimation using clinically relevant features from PPG signal and its second derivative, Computers in Biology and Medicine,
+Volume 166,2023,107558
+
 # Conference
 
 # Book Chapters
