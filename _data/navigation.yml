@@ -15,14 +15,15 @@ main:
   - title: "Job"
     url: /job/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
   - title: "Entrepreneurship"
     url: /entrepreneurship/
+
+  - title: "CV"
+    url: /cv/
+
+   - title: "Blog Posts"
+    url: /year-archive/
+    
   
 
   
