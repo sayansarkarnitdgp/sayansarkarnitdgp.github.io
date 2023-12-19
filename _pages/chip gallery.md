@@ -1,10 +1,10 @@
 ---
-permalink: /extracurricular/
-title: "Extracurricular"
+permalink: /chip gallery/
+title: "Chip Gallery"
 author_profile: true
 redirect_from: 
-  - /ex/
-  - /extracurricular.html
+  - /chg/
+  - /chip gallery.html
 
 ---
 
