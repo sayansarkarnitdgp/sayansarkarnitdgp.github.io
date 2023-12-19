@@ -8,5 +8,11 @@ redirect_from:
 
 ---
 
-# Pointfit Technology (Part-time)
+# Photography 
+
+# Travel 
+
+# Reading 
+
+# Football
 
