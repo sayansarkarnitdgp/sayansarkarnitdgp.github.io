@@ -8,15 +8,18 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+
+    - title: "Job"
+    url: /markdown/
+
+    - title: "Entrepreneurship"
+    url: /markdown/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
-  - title: "Entrepreneurship"
-    url: /markdown/
+
+    - title: "Portfolio"
+    url: /portfolio/
+
+    - title: "Blog Posts"
+    url: /year-archive/
