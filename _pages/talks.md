@@ -9,21 +9,24 @@ redirect_from:
 ---
 
 ---
-# Talks
+# Tech Talks
 * Sayan Sarkar, "Back Telemetry of 3-Coil WPT and 2-Coil WPT for Biomedical Implants" HKUST, Hong Kong, 2022
 
 
 Synopsis -  
    
-* Sayan Sarkar, "Medtech Entrepreneurship In India" IIT Bombay, India, 2016
+
+# Tech Tutorials 
 
 
 Synopsis - 
 
-3. 
-   
+# Business Talks 
 
-# Tutorials 
+* Sayan Sarkar, "Medtech Entrepreneurship In India" IIT Bombay, India, 2016
+
+
+Synopsis -
 ---
 
 
