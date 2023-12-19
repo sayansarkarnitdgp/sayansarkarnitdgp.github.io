@@ -6,6 +6,8 @@ redirect_from:
   - /jb/
   - /job.html
 
+---
+
 # Pointfit Technology (Part-time)
 
 # Coal India Limited (Full-time)
@@ -13,4 +15,3 @@ redirect_from:
 # National Thermal Power Corporation (Intern)
 
 # Calcutta Electric Supply Limited (Intern)
----
