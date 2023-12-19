@@ -3,8 +3,8 @@ permalink: /entrepreneurship/
 title: "Entrepreneurship"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /en/
+  - /entrepreneurship.html
 ---
 
 ## Start of Entreurship Journey 
