@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /entrepreneurship/
+title: "Entrepreneurship"
 author_profile: true
 redirect_from: 
   - /md/
