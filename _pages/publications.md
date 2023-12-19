@@ -1,11 +1,17 @@
---
+---
 permalink: /publications/
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /pb/
+  - /pbs/
   - /publications.html
 
 ---
 
-# Pointfit Technology (Part-time)
+# Photography 
+
+# Travel 
+
+# Reading 
+
+# Football
