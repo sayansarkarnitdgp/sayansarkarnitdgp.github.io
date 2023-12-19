@@ -11,6 +11,9 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Job"
+    url: /job/
         
   - title: "Blog Posts"
     url: /year-archive/
