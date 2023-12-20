@@ -8,6 +8,8 @@ redirect_from:
 
 ---
 
+My extracurricular work can be broadly divided into four segments.
+
 # Photography 
 
 # Travel 
