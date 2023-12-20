@@ -12,7 +12,11 @@ redirect_from:
 
 
 ## Wecare Medservice LLP (Co-founder and CEO)
-### Wecare
+
+### Wecare Wearable 
+
+
+### Wecare Kisok 
 In the Wecare kiosk initiative, we have worked on a multipurpose health parameter monitoring chair with an e-diagnostic feature fitted inside a medical booth with or without a mobile feature. The developed ‘ATM-like system’ is an answer to all of your basic health queries.
 
 ### Mothercare
