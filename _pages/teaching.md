@@ -11,6 +11,10 @@ redirect_from:
 
 ## Analog Electronics (Basic and Advanced Level) ##
 
+In the first part of the course, I would like to teach an overview, applications, fundamentals and design flow of the state-of-the-art integrated circuits (IC) and systems. Course contents include fabrication process; diodes, bipolar transistors and MOS transistors and modes of operations; and fundamental of analog, digital and mixed-signal IC design.
+
+In the second part of the course, I would like to teach Noise analysis; Advanced op-amp design techniques; Analog VLSI building blocks: multipliers, oscillators, mixers, phase-locked loops, A/D and D/A converters; Passive filter design; Frequency scaling; Active filter design.
+
 ## Power Management IC Design (Part 1 and 2) ##
 
 ## Biomedical Instrumentation (Focus area - Wearable and Implantable Medical Devices) ##
