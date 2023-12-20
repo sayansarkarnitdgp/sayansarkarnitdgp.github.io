@@ -25,11 +25,11 @@ redirect_from:
 
 [C8]
 
-[C7]
+[C7] R. Saha, S. Sarkar and S. K. Datta, ["Balancing security & sharing of fitness trackers' data,"](https://ieeexplore.ieee.org/abstract/document/8076942) 2017 1st International Conference on Electronics, Materials Engineering and Nano-Technology (IEMENTech), Kolkata, India, 2017, pp. 1-6,
 
-[C6]
+[C6] S. Sarkar and R. Saha, ["A futuristic IOT based approach for providing healthcare support through E-diagnostic system in India,"](https://ieeexplore.ieee.org/abstract/document/8117810) 2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT), Coimbatore, India, 2017, pp. 1-7
 
-[C5] S. Sarkar, A. Ghosh and S. Banerjee, ["Design and implementation of type-III controller in tri-state boost converter,"] (https://ieeexplore.ieee.org/abstract/document/7443152) 2015 Annual IEEE India Conference (INDICON), New Delhi, India, 2015
+[C5] S. Sarkar, A. Ghosh and S. Banerjee, ["Design and implementation of type-III controller in tri-state boost converter,"](https://ieeexplore.ieee.org/abstract/document/7443152) 2015 Annual IEEE India Conference (INDICON), New Delhi, India, 2015
 
 [C4] A. Jena, S. Sarkar and Mashuq-un-Nabi, ["A modified BEM-FEM coupling approach for 3D electromagnetic levitation problem,"](https://ieeexplore.ieee.org/abstract/document/7443598) 2015 Annual IEEE India Conference (INDICON), New Delhi, India, 2015, pp. 1-6
 
