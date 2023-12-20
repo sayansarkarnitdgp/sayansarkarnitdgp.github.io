@@ -12,7 +12,7 @@ redirect_from:
 
 ## Coal India Limited (Full-time)
 
-During my 2 years tenure in Coal India, I was posted at Ningha colliery, Sripur area, ECL, West Bengal, India. In-charge of overall electrical engineering activities (working load – 7 MVA) of an underground semi-mechanized coal mine.
+During my 2 years tenure in Coal India, I was posted at Ningha colliery, Sripur area, ECL, West Bengal, India. In-charge of overall electromechanical engineering activities (working load – 7 MVA) of an underground semi-mechanized coal mine.
 ### Key achievements ###
 1. Designed power supply LT overhead lines more than 5 km in length worth more than 30 lakhs
 2. Surveyed off 2 trucks and 1 jeep car after completion of their life cycle.
