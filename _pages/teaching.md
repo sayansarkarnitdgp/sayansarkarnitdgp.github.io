@@ -7,11 +7,8 @@ redirect_from:
   - /teaching.html
 
 ---
+# Future Teaching Directions
 
-# Pointfit Technology (Part-time)
+# At HKUST
 
-# Coal India Limited (Full-time)
 
-# National Thermal Power Corporation (Intern)
-
-# Calcutta Electric Supply Limited (Intern)
