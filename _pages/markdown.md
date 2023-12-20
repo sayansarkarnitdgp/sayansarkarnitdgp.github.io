@@ -15,7 +15,11 @@ redirect_from:
 
 ## IIT Kharagpur Phase 
 
-## End Story 
+## Startup journey at HKUST 
+
+## End Story of Startup
+
+##  Social Entrepreneurship at HKUST - Active Global
 
 
 
