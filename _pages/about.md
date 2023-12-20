@@ -11,10 +11,10 @@ I am currently a postdoctoral scholar from the Integrated Power Electronics labo
 
 My research interest can be broadly classified into four segments.
 
-1. Inductive or Ultrasonically Powered Secured Implantable Medical Devices for Neural/Retinal/Auditory Stimulation 
-2. Machine Learning or Deep learning-based Biosignal Processing (ex. - cuffless BP estimation, Signal Quality Estimation)
-3. Wireless Multimodality System-on-a-chip Design for Biochemical (sweat/urine) and Physiological (ECG, PPG) Signal Acquisition
-4. Power Management IC Design for AC-DC and DC-DC Converter 
+## Inductive or Ultrasonically Powered Secured Implantable Medical Devices for Neural/Retinal/Auditory Stimulation 
+## Machine Learning or Deep learning-based Biosignal Processing (ex. - cuffless BP estimation, Signal Quality Estimation)
+## Wireless Multimodality System-on-a-chip Design for Biochemical (sweat/urine) and Physiological (ECG, PPG) Signal Acquisition
+## Power Management IC Design for AC-DC and DC-DC Converter 
 
  
 Thanks for visiting my website. 
