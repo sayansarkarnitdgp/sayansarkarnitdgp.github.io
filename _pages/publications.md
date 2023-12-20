@@ -26,11 +26,11 @@ redirect_from:
 
 [C24]
 
-[C23]
+[C23] S. Sarkar, Y. Yuan and W. -H. Ki, ["Analysis of Inductor Current for Series Resonant Tank at Different Practical Operating Conditions,"](https://ieeexplore.ieee.org/abstract/document/9589480) IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society, Toronto, ON, Canada, 2021,
 
-[C22]
+[C22] S. Sarkar, ["Adaptable Class-D Power Amplifier based Power Modulation and Data Transfer Technique for Biomedical Systems,"](https://ieeexplore.ieee.org/abstract/document/9629530) 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Mexico, 2021, pp. 7562-7565
 
-[C21]
+[C21] S. Sarkar, A. Ghosh and T. Chatterjee, ["Optimum Sizing Strategy of Starving resistor in Buffer for Short Circuit Loss Minimization,"](https://ieeexplore.ieee.org/abstract/document/9576311) 2021 IEEE 30th International Symposium on Industrial Electronics (ISIE), Kyoto, Japan, 2021, pp. 1-6,
 
 [C20] S. Sarkar, A. Ghosh and T. Chatterjee, ["Design of a 2 mW Power, 112 dB Gain-Boosted, Folded Cascode Amplifier in 0.18µm Process,"](https://ieeexplore.ieee.org/abstract/document/9576208) 2021 IEEE 30th International Symposium on Industrial Electronics (ISIE), Kyoto, Japan, 2021, pp. 1-5,
 
