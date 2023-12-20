@@ -9,6 +9,8 @@ redirect_from:
 ---
 # Future Teaching Directions
 
+## Fundamentals of Electronics ##
+
 ## Analog Electronics (Basic and Advanced Level) ##
 
 In the first part of the course, I would like to teach an overview, applications, fundamentals, and design flow of the state-of-the-art integrated circuits (IC) and systems. Course contents include the fabrication process, diodes, bipolar transistors, and MOS transistors and modes of operations, and fundamentals of analog, digital, and mixed-signal IC design. In the second part of the course, I would like to teach Noise analysis, Advanced op-amp design techniques, A/D and D/A converters, Passive filter design, and Active filter design.
@@ -28,10 +30,14 @@ This course builds on the fundamental knowledge of biosensors and bioinstrumenta
 # At HKUST
 
 ## Power Management Integrated Circuit Design ##
+Instructor - Wing Hung Ki; class strength -20
 
 ## Analog IC Analysis and Design ##
+Instructor - Wing Hung Ki; class strength - 100
 
 ## Introduction to Embedded Systems ##
+Instructor - Kam Tim Woo, class strength -100
 
 ## Introduction to Integrated Circuits and Systems ##
+Instructor - Howard Luong, class strength - 120
 
