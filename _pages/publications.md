@@ -10,19 +10,37 @@ redirect_from:
 
 # Journals 
 
-[J2] Sayan Sarkar, Aayushman Ghosh, ["Schrödinger spectrum based continuous cuff-less blood pressure estimation using clinically relevant features from PPG signal and its second derivative"](https://www.sciencedirect.com/science/article/abs/pii/S0010482523010235), Computers in Biology and Medicine, Volume 166,2023,107558.
+[J4] Sayan Sarkar, Aayushman Ghosh, ["Schrödinger spectrum based continuous cuff-less blood pressure estimation using clinically relevant features from PPG signal and its second derivative"](https://www.sciencedirect.com/science/article/abs/pii/S0010482523010235), Computers in Biology and Medicine, Volume 166,2023,107558.
 
-[J1] Y. Yao, S. Sarkar, W. -H. Ki and C. -Y. Tsui, ["Analysis and Prevention of Coupling-Dependent Data Flipping in Wireless Power Transfer Systems," in IEEE Transactions on Power Electronics",](https://ieeexplore.ieee.org/abstract/document/10122992) vol. 38, no. 8, pp. 10460-10469, Aug. 2023.
-* 
+[J3] Y. Yao, S. Sarkar, W. -H. Ki and C. -Y. Tsui, ["Analysis and Prevention of Coupling-Dependent Data Flipping in Wireless Power Transfer Systems," in IEEE Transactions on Power Electronics",](https://ieeexplore.ieee.org/abstract/document/10122992) vol. 38, no. 8, pp. 10460-10469, Aug. 2023.
+
+[J2]
+
+[J1] A. Jena, S. Sarkar and M. N.-Nabi, ["Mathematical Analysis of Modified BEM-FEM Coupling Approach for 3D Electromagnetic Levitation Problem"](https://arxiv.org/abs/2108.09632), Published in arxiv.
+
 # Conference
 
-[C19]
+[C26]
 
-[C18]
+[C25]
 
-[C17]
+[C24]
 
-[C16]
+[C23]
+
+[C22]
+
+[C21]
+
+[C20] S. Sarkar, A. Ghosh and T. Chatterjee, ["Design of a 2 mW Power, 112 dB Gain-Boosted, Folded Cascode Amplifier in 0.18µm Process,"](https://ieeexplore.ieee.org/abstract/document/9576208) 2021 IEEE 30th International Symposium on Industrial Electronics (ISIE), Kyoto, Japan, 2021, pp. 1-5,
+
+[C19] S. Sarkar and W. -H. Ki, ["Mathematical Modelling of Inductor Current in Class-D Amplifier for Wireless Power Transfer,"](https://ieeexplore.ieee.org/abstract/document/9295607) 2020 IEEE Wireless Power Transfer Conference (WPTC), Seoul, Korea (South), 2020, pp. 399-402
+
+[C18] S. Sarkar and W. -H. Ki, ["Time Domain Analysis of Class-D Amplifier Driving Series-Series and Series-Parallel Circuits,"](https://ieeexplore.ieee.org/abstract/document/9293947) 2020 IEEE REGION 10 CONFERENCE (TENCON), Osaka, Japan, 2020, pp. 159-164
+
+[C17] S. Sarkar and W. -H. Ki, ["A Study on Shoot-Through Reduction of DC-DC Converter Pre-Driver using Starving Resistor,"](https://ieeexplore.ieee.org/abstract/document/9293707) 2020 IEEE REGION 10 CONFERENCE (TENCON), Osaka, Japan, 2020, pp. 532-537
+
+[C16] S. Sarkar, A. Ghosh and S. S. Ghosh, ["Study of Cardiorespiratory and Sweat Monitoring Wearable Architecture for Coal Mine Workers,"](https://ieeexplore.ieee.org/abstract/document/9293818) 2020 IEEE REGION 10 CONFERENCE (TENCON), Osaka, Japan, 2020, pp. 355-360,
 
 [C15] S. Sarkar, A. Ghosh and S. Subhra Ghosh, ["Design of IMC & IMC Derived PID Controller for Interleaved Boost Converter,"](https://ieeexplore.ieee.org/abstract/document/9293888) 2020 IEEE REGION 10 CONFERENCE (TENCON), Osaka, Japan, 2020, pp. 841-846
 
@@ -47,7 +65,7 @@ redirect_from:
 
 [C5] S. Sarkar, A. Ghosh and S. Banerjee, ["Design and implementation of type-III controller in tri-state boost converter,"](https://ieeexplore.ieee.org/abstract/document/7443152) 2015 Annual IEEE India Conference (INDICON), New Delhi, India, 2015
 
-[C4] A. Jena, S. Sarkar and Mashuq-un-Nabi, ["A modified BEM-FEM coupling approach for 3D electromagnetic levitation problem,"](https://ieeexplore.ieee.org/abstract/document/7443598) 2015 Annual IEEE India Conference (INDICON), New Delhi, India, 2015, pp. 1-6
+[C4] A. Jena, S. Sarkar and M. N.-Nabi, ["A modified BEM-FEM coupling approach for 3D electromagnetic levitation problem,"](https://ieeexplore.ieee.org/abstract/document/7443598) 2015 Annual IEEE India Conference (INDICON), New Delhi, India, 2015, pp. 1-6
 
 [C3] S. Sarkar, S. Tiwari, F. R. Mollah and Mashuq-un-Nabi, ["Study of electrical field distortion around man-made object under High Voltage lines,"](https://ieeexplore.ieee.org/abstract/document/7443385) 2015 Annual IEEE India Conference (INDICON), New Delhi, India, 2015,
 
