@@ -6,7 +6,6 @@ redirect_from:
   - /publications.html
 
 ---
-# Reverse Chronological Order 
 
 # Journals 
 
