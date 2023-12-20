@@ -10,9 +10,28 @@ redirect_from:
 
 ## Pointfit Technology (Part-time)
 
+
+## Wecare Medservice LLP
+### Wecare
+In the Wecare kiosk initiative, we have worked on a multipurpose health parameter monitoring chair with an e-diagnostic feature fitted inside a medical booth with or without a mobile feature. The developed ‘ATM-like system’ is an answer to all of your basic health queries.
+
+### Mothercare
+In the Mothercare Initiative, we are working on “a total care-based healthy pregnancy initiative. Mothercare is acting as door to door health service provider by diagnosing important cardiorespiratory health parameters, along with bio-marker with online doctor consultation. The cardiorespiratory module can detect blood pressure, heart rate, respiration rate, ECG, and hemoglobin concentration. Based on those data, we are trying to provide fitness and health analytics. The introduction of care is in the form of the following steps: (a) Early pregnancy detection (b) Registration, (c) Check-up at regular intervals. Assistive care is provided by distributing ‘MotherCare Weekly kits’ consisting of necessities (food supplements, iron tablets, folic acid tablets) for the pregnancy period for one week.
+
+### Achievements
+1. Winner of the social track of Eureka 2016 (IIT Bombay, India) (out of 9500+ entries).
+2. Finalist in the business track of Empresario in 2016,2019, and 2020 (IIT kgp, India) for Wecare. 
+3. Finalist in Tata Social Enterprise Challenge 2016 (IIM Kolkata, India) for wecare. 
+4. Runner's up in the social track of Empresario 2017 (IIT kgp, India) for Mothercare.
+5. Finalist of Stanford India Bio-design Programme (AIIMS Delhi, India).
+
+Media coverage: - Work covered in The Telegraph, NDTV Prime, Times Now, Economic Times, Your story etc.
+Wecare comes to an end due to the founder's exit. 
+
 ## Coal India Limited (Full-time)
 
-During my 2 years tenure in Coal India, I was posted at Ningha colliery, Sripur area, ECL, West Bengal, India. In-charge of overall electromechanical engineering activities (working load – 7 MVA) of an underground semi-mechanized coal mine.
+During my 2 years tenure in Coal India, I was posted at Ningha Colliery, Sripur area, ECL, West Bengal, India. In-charge of overall electromechanical engineering activities (working load – 7 MVA) of an underground semi-mechanized coal mine.
+
 ### Key achievements ###
 1. Designed power supply LT overhead lines more than 5 km in length worth more than 30 lakhs
 2. Surveyed off 2 trucks and 1 jeep car after completion of their life cycle.
