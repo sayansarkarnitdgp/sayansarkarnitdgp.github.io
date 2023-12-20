@@ -16,7 +16,7 @@ Reverse Chronological order
 
 [J2] A. Ghosh, S. Sarkar, S. Roy ["Design of Ultrafast All-Optical Pseudo Binary Random Sequence Generator, 4-bit Multiplier and Divider using 2 x 2 Silicon Micro-ring Resonators"](), published in arxiv.
 
-[J1] A. Jena, S. Sarkar and M. N.-Nabi, ["Mathematical Analysis of Modified BEM-FEM Coupling Approach for 3D Electromagnetic Levitation Problem"](https://arxiv.org/abs/2108.09632), Published in arxiv.
+[J1] A. Jena, S. Sarkar, and M. N.-Nabi, ["Mathematical Analysis of Modified BEM-FEM Coupling Approach for 3D Electromagnetic Levitation Problem"](https://arxiv.org/abs/2108.09632), published in arxiv.
 
 # Conference
 
@@ -24,7 +24,7 @@ Reverse Chronological order
 
 [C31] S. Sarkar, ["Novel Strategies for DAC-based Offset Elimination Technique in Resistive Bridge Sensor,"](https://ieeexplore.ieee.org/abstract/document/9977718) TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON), Hong Kong, Hong Kong, 2022, pp. 1-6
 
-[C30] S. Sarkar, Y. Yao and W. -H. Ki, ["Mathematical Analysis of Duty Cycle Variation based Wireless Power Control Technique,"](https://ieeexplore.ieee.org/abstract/document/9853982) 2022 Wireless Power Week (WPW), Bordeaux, France, 2022, pp. 599-604, 
+[C30] S. Sarkar, Y. Yao, and W. -H. Ki, ["Mathematical Analysis of Duty Cycle Variation based Wireless Power Control Technique,"](https://ieeexplore.ieee.org/abstract/document/9853982) 2022 Wireless Power Week (WPW), Bordeaux, France, 2022, pp. 599-604, 
 
 [C29] S. Sarkar, Y. Yao and W. -H. Ki, ["Split Frequency and Load-Shift Keying Based Bi-directional Data Transfer Technique in Wireless Implantable Medical Devices,"](https://ieeexplore.ieee.org/abstract/document/9871738) 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Glasgow, Scotland, United Kingdom, 2022, pp. 2464-2470, 
 
@@ -38,11 +38,11 @@ Reverse Chronological order
 
 [C24] S. Sarkar, T. Chatterjee and A. Ghosh, ["Development on Linearizing Front End and Amplification Structure for Commercial GMR Sensor-based Cardiorespiratory Monitoring system,"](https://ieeexplore.ieee.org/abstract/document/9630672) 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Mexico, 2021, pp. 7190-7194
 
-[C23] S. Sarkar, Y. Yuan and W. -H. Ki, ["Analysis of Inductor Current for Series Resonant Tank at Different Practical Operating Conditions,"](https://ieeexplore.ieee.org/abstract/document/9589480) IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society, Toronto, ON, Canada, 2021,
+[C23] S. Sarkar, Y. Yuan, and W. -H. Ki, ["Analysis of Inductor Current for Series Resonant Tank at Different Practical Operating Conditions,"](https://ieeexplore.ieee.org/abstract/document/9589480) IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society, Toronto, ON, Canada, 2021,
 
 [C22] S. Sarkar, ["Adaptable Class-D Power Amplifier based Power Modulation and Data Transfer Technique for Biomedical Systems,"](https://ieeexplore.ieee.org/abstract/document/9629530) 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Mexico, 2021, pp. 7562-7565
 
-[C21] S. Sarkar, A. Ghosh and T. Chatterjee, ["Optimum Sizing Strategy of Starving resistor in Buffer for Short Circuit Loss Minimization,"](https://ieeexplore.ieee.org/abstract/document/9576311) 2021 IEEE 30th International Symposium on Industrial Electronics (ISIE), Kyoto, Japan, 2021, pp. 1-6,
+[C21] S. Sarkar, A. Ghosh and T. Chatterjee, ["Optimum Sizing Strategy of Starving Resistor in Buffer for Short Circuit Loss Minimization,"](https://ieeexplore.ieee.org/abstract/document/9576311) 2021 IEEE 30th International Symposium on Industrial Electronics (ISIE), Kyoto, Japan, 2021, pp. 1-6,
 
 [C20] S. Sarkar, A. Ghosh and T. Chatterjee, ["Design of a 2 mW Power, 112 dB Gain-Boosted, Folded Cascode Amplifier in 0.18µm Process,"](https://ieeexplore.ieee.org/abstract/document/9576208) 2021 IEEE 30th International Symposium on Industrial Electronics (ISIE), Kyoto, Japan, 2021, pp. 1-5,
 
