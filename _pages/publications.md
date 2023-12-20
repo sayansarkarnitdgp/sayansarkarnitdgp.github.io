@@ -15,8 +15,11 @@ redirect_from:
 [J1] Y. Yao, S. Sarkar, W. -H. Ki and C. -Y. Tsui, ["Analysis and Prevention of Coupling-Dependent Data Flipping in Wireless Power Transfer Systems," in IEEE Transactions on Power Electronics",](https://ieeexplore.ieee.org/abstract/document/10122992) vol. 38, no. 8, pp. 10460-10469, Aug. 2023.
 * 
 # Conference
-[C1] P. Saha, S. Goswami, S. Chakrabarty and S. Sarkar, "[Simulation and model verification of shoe embedded piezoelectric energy harvester](https://ieeexplore.ieee.org/abstract/document/7117702)," 2014 6th IEEE Power India International Conference (PIICON), Delhi, India, 2014, pp. 1-6,
+[C3] S. Sarkar, S. Tiwari, F. R. Mollah and Mashuq-un-Nabi, ["Study of electrical field distortion around man-made object under High Voltage lines,"](https://ieeexplore.ieee.org/abstract/document/7443385) 2015 Annual IEEE India Conference (INDICON), New Delhi, India, 2015,
 
+[C2] S. Sarkar, G. Saha, G. Pal and T. Karmakar, ["Indian experience on smart grid application in blackout control,"](https://ieeexplore.ieee.org/abstract/document/7489079) 2015 39th National Systems Conference (NSC), Greater Noida, India, 2015
+
+[C1] P. Saha, S. Goswami, S. Chakrabarty and S. Sarkar, "[Simulation and model verification of shoe embedded piezoelectric energy harvester](https://ieeexplore.ieee.org/abstract/document/7117702)," 2014 6th IEEE Power India International Conference (PIICON), Delhi, India, 2014, pp. 1-6.
 # Book Chapters
 
 
