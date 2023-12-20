@@ -9,7 +9,7 @@ redirect_from:
 ---
 # Future Teaching Directions
 
-# Analog Electronics (Basic and Advanced Level)
+## Analog Electronics (Basic and Advanced Level) ##
 
 # Power Management IC Design (Part 1 and 2)
 
