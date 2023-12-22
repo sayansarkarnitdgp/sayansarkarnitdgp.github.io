@@ -12,7 +12,8 @@ I am currently a postdoctoral scholar from the Integrated Power Electronics labo
 My research interest can be broadly classified into four segments.
 
 ## Inductive or Ultrasonically Powered Secured Implantable Medical Devices for Neural/Retinal/Auditory Stimulation 
-I want to extend that work towards a secured reconfigurable multimodal neurostimulator system on a chip (SoC) design that can record, process, and stimulate deep brain activity in humans/animals. Each recording channel changes its configuration depending on whether the channel is assigned to record voltage (action potentials and single-neuron LFP activity during stationary and ambulatory behavior in humans local field potential (LFP)) or current signal (concentration of neurotransmitters). It can lead to impactful discoveries within the neuroscience field and contribute to the development of novel therapies for neurological and psychiatric disorders. 
+I would like to develop a secured reconfigurable multimodal neurostimulator system on a chip (SoC) design that can record, process, and stimulate deep brain activity in humans/animals. Each recording channel changes its configuration depending on whether the channel is assigned to record voltage (action potentials and single-neuron LFP activity during stationary and ambulatory behavior in humans local field potential (LFP)) or current signal (concentration of neurotransmitters). It can lead to impactful discoveries within the neuroscience field and contribute to the development of novel therapies for neurological and psychiatric disorders. 
+
 ## Machine Learning or Deep learning-based Biosignal Processing (ex. - cuffless BP estimation, Signal Quality Estimation)
 
 ## Wireless Multimodality System-on-a-chip Design for Biochemical (sweat/urine) and Physiological (ECG, PPG) Signal Acquisition
