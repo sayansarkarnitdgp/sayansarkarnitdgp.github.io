@@ -22,6 +22,6 @@ I would like to develop a secured reconfigurable multimodal neurostimulator syst
 
 If you are interested in the above areas and want to have a discussion, feel free to send me an email. 
 
-
+Thanks for visiting my website.
 
 ======
