@@ -28,7 +28,7 @@ synopsis -
 
 # Business Talks 
 
-## "Medtech Entrepreneurship In India" IIT Bombay, India, 2016
+## "Medtech Entrepreneurship In India" IIT Bombay, India, 2017
 
 Synopsis - During the e-summit 2017 of IIT Bombay, I briefly discussed my experience as a winner of Eureka 2016 (social category). I talked about the ups and downs of my startup with a general focus on medtech entrepreneurship in India.
 ---
