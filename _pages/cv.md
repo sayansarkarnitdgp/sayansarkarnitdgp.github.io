@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Electrical Engineering, NIT Durgapur, 2016
-* Ph.D in Electronics and Computer Engineering, HKUST, 2023
+* Ph.D in Electronics and Computer Engineering, HKUST, Hong Kong, 2023
+* B.Tech in Electrical Engineering, National Institute of Technology, Durgapur, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+*  2015: Research Assistant
+  * Hong Kong University of Science and Technology 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
@@ -29,7 +29,7 @@ Work experience
 Skills
 ======
 * Skill 1
-* Skill 2
+* Analog circuit design 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
