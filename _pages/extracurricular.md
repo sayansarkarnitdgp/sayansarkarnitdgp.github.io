@@ -13,7 +13,7 @@ My extracurricular work can be broadly divided into four segments.
 ## Photography 
 
 ## Travel 
-
+![plot](/images/IMG-20220708-WA0004.jpg))
 ## Reading 
 
 ## Football
