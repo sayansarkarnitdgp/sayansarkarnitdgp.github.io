@@ -8,10 +8,10 @@ redirect_from:
 
 ---
 
-# Photography 
+## Retinal Implant
 
-# Travel 
+## Adaptive digitally controlled active rectifier 
 
-# Reading 
+## Closed-loop Wireless Power Transfer 
 
-# Football
+
