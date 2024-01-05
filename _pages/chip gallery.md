@@ -10,7 +10,7 @@ redirect_from:
 
 ## Retinal Implant
 
-![plot](./sayansarkarnitdgp.github.io/blob/master/images/encrpt-implant2.jpg)
+![plot](/images/encrpt-implant2.jpg)
 
 ## Adaptive digitally controlled active rectifier 
 
