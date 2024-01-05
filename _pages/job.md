@@ -16,7 +16,7 @@ redirect_from:
 ### Wecare Wearable 
 
 
-### Wecare Kisok 
+### Wecare Kiosk 
 In the Wecare kiosk initiative, we have worked on a multipurpose health parameter monitoring chair with an e-diagnostic feature fitted inside a medical booth with or without a mobile feature. The developed ‘ATM-like system’ is an answer to all of your basic health queries.
 
 ### Mothercare
@@ -26,7 +26,7 @@ In the Mothercare Initiative, we are working on “a total care-based healthy pr
 1. Winner of the social track of Eureka 2016 (IIT Bombay, India) (out of 9500+ entries).
 2. Finalist in the business track of Empresario in 2016,2019, and 2020 (IIT kgp, India) for Wecare. 
 3. Finalist in Tata Social Enterprise Challenge 2016 (IIM Kolkata, India) for wecare. 
-4. Runner's up in the social track of Empresario 2017 (IIT kgp, India) for Mothercare.
+4. Runner in the social track of Empresario 2017 (IIT kgp, India) for Mothercare.
 5. Finalist of Stanford India Bio-design Programme (AIIMS Delhi, India).
 
 Media coverage: - Work covered in The Telegraph, NDTV Prime, Times Now, Economic Times, Your story etc.
@@ -35,6 +35,8 @@ Wecare comes to an end due to the founder's exit.
 ## Coal India Limited (Full-time)
 
 During my 2 years tenure in Coal India, I was posted at Ningha Colliery, Sripur area, ECL, West Bengal, India. In-charge of overall electromechanical engineering activities (working load – 7 MVA) of an underground semi-mechanized coal mine.
+
+![plot](/images/IMG-20211007-WA0018.jpg)
 
 ### Key achievements ###
 1. Designed power supply LT overhead lines more than 5 km in length worth more than 30 lakhs
