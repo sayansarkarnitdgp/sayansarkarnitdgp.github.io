@@ -10,6 +10,8 @@ redirect_from:
 
 ## Retinal Implant
 
+![plot](./directory_1/directory_2/.../directory_n/plot.png)
+
 ## Adaptive digitally controlled active rectifier 
 
 ## Closed-loop Wireless Power Transfer 
