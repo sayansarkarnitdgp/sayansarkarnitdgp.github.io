@@ -27,7 +27,7 @@ My extracurricular work can be broadly divided into four segments.
 ## Football
 
 Before the commencement of the new football season 2022-2023 in Europe, here is the most enthralling collage of my life. The summer of 2022 will be remembered forever.
-
+I visited the following footballl stadiums in July 2022 within a span of 15 days. 
 Stade de France(France national team)….Le Parc des Princes (PSG)…Santiago Bernabeu(Real Madrid)….Camp Nou(Barcelona)….Stamford Bridge(Chelsea)..Anfield(Liverpool).. Old Trafford(Man United)…Etihad (Man City)...
 
 ![plot](/images/football.jpg)
