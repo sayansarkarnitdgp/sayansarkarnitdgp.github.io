@@ -16,4 +16,7 @@ redirect_from:
 
 ## Closed-loop Wireless Power Transfer 
 
+![plot](/images/closed loop.jpg))
+
+
 
