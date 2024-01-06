@@ -12,7 +12,9 @@ redirect_from:
 
 ![plot](/images/encrpt-implant2.jpg)
 
-## Adaptive digitally controlled active rectifier 
+## Reconfigurable Transmitter and Adaptive Digitally Controlled Active Rectifier 
+
+![plot](/images/open loop.jpg)
 
 ## Closed-loop Wireless Power Transfer 
 
