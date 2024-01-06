@@ -22,8 +22,6 @@ My extracurricular work can be broadly divided into four segments.
 
 ### England and Scotland 
 
-## Reading 
-
 ## Football
 Desired destination - "আজন্ম লালিত এক স্বপ্নের সফল হবার আখ্যান।"
 
@@ -34,3 +32,5 @@ Before the commencement of the new football season 2022-2023 in Europe, here is 
 Stade de France(France national team)….Le Parc des Princes (PSG)…Santiago Bernabeu(Real Madrid)….Camp Nou(Barcelona)….Stamford Bridge(Chelsea)..Anfield(Liverpool).. Old Trafford(Man United)…Etihad (Man City)...
 
 ![plot](/images/football.jpg)
+
+## Reading 
