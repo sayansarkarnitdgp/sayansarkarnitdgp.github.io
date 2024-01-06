@@ -27,7 +27,7 @@ This course aims to teach Integrated circuit techniques for power management com
 
 This course builds on the fundamental knowledge of biosensors and bioinstrumentation. In the first part of the course, I would like to cover (1) Basic concepts of biomedical signal analysis; (2) Measurements of bioelectrical, biomechanical, and biochemical signals for medical diagnosis and clinical monitoring; (3) typical building blocks of measurement devices, (4) effect of AI/ML in biosignal processing. In the second part of the course, I would like to cover designs of four popular biosignal measurement devices (a) ECG/EEG, (b) PPG (blood pressure and Sp02), (c) sweat analyzer (lactate, glucose, Na+ etc.), (d) closed-loop neural implant (stimulation, sensing and drug delivery)
 
-# At HKUST
+# At HKUST, I worked as a TA for the following courses.
 
 ## Power Management Integrated Circuit Design ##
 Instructor - Wing Hung Ki; class strength -20
@@ -36,8 +36,8 @@ Instructor - Wing Hung Ki; class strength -20
 Instructor - Wing Hung Ki; class strength - 100
 
 ## Introduction to Embedded Systems ##
-Instructor - Kam Tim Woo, class strength -100
+Instructor - Kam Tim Woo, class strength -120
 
 ## Introduction to Integrated Circuits and Systems ##
-Instructor - Howard Luong, class strength - 120
+Instructor - Howard Luong, class strength - 100
 
