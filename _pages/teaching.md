@@ -9,6 +9,8 @@ redirect_from:
 ---
 # Future Teaching Directions
 
+If I get the opportunity, I would like to teach the following courses to undergraduate and Postgraduate students.
+
 ## Fundamentals of Electronics ##
 
 ## Analog Electronics (Basic and Advanced Level) ##
