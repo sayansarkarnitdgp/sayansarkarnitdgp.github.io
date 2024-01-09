@@ -33,14 +33,12 @@ For multimodality system-on-a-chip design, I would like to focus on both on-chip
 
 The latest scientific developments in electronics, sensing elements, and wireless data transmission permit real-time and uninterrupted estimations of analytes. A compact electrochemical sensing platform (on-chip) is widely used for its high accuracy, quick response, low cost, small form factors, and low power utilization properties. However, most of the existing electrochemical readout interfaces focus on a single modality constrained to a particular sensing pattern, which can’t offer enough details for a comprehensive diagnosis. Recently, multimodal electrochemistry has drawn substantial attention in wearable healthcare systems to detect biochemical parameters. An electrochemical readout circuit consists of multiple components: (a) input waveform generator, (b) potentiostat architecture, (c) AFE architecture, and (d) digitization architecture. Similar to earlier cases, with the rise of big data and digital medicine, next-generation electroanalysis platforms (ex., smart bandages for wound healing progress measurement) will be able to use AI to optimize their design as well as uncover user-personalized health profiles.
 
-### Reference papers - Yung-Lu [TBCAS'22], Gao [Nature'23], Gao [Nature'16]
+#### Reference papers - Yung-Lu [TBCAS'22], Gao [Nature'23], Gao [Nature'16]
 
 ## Power Management IC Design for Edge Devices 
 Over the past five decades, we have witnessed technological innovations, thanks to the invention of the integrated-circuit (IC) technology, which makes possible the development of various system-on-chips (SoCs) that, with low power consumption, can pack tremendous computing power into very small footprints. Small but smart and low-power, SoCs are thus essential in most battery-powered portable/wearable devices requiring distributed intelligence, such as in wireless sensor nodes for Implantable or wearable devices. Therefore, there is a surge off integrated DC-DC converter having very low output voltage ripple making it suitable for analog applications, which are sensitive to supply noise. Similarly, hybrid converters and multi-output converters are also gaining attention for coping up with the different requirements. I would like to focus on the broad spectrum of converter-controller design, switch cap., charge pump, BGR etc.
 
-### Reference papers - Dam [TPEL'2021], Bartolini [JESTPE'2023]
-
-Reference papers - 
+#### Reference papers - Dam [TPEL'2021], Bartolini [JESTPE'2023]
 
 If you are interested in the above areas and want to have a discussion, feel free to send me an email. 
 
