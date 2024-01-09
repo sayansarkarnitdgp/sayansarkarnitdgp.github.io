@@ -25,8 +25,6 @@ At the start of summer 2016, I got an invitation for Kalpana 2016 (a nationwide 
 
 ## Startup journey at HKUST 
 
-## Startup journey at HKUST 
-
 ![plot](/images//IMG-20190705-WA0003.jpg)
 
 ![plot](/images//IMG-20190516-WA0006.jpg)
