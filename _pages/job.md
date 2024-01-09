@@ -49,6 +49,8 @@ During my 2 years tenure in Coal India, I was posted at Ningha Colliery, Sripur 
 8. Commissioned 2 new transformers with an overall capacity of 2MVA.
 9. Introduced inventory control in the 'area central store.'
 
+![plot](/images/cil.jpg)
+
 ## National Thermal Power Corporation (Intern)
 
 I joined NTPC (National Thermal Power Corporation) as a summer trainee under the able guidance of Mr. Atanu Nandan Das in the Electrical Maintenance Department and Successfully completed the project on Switch yard and Transformer protection schemes.
