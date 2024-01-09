@@ -29,11 +29,11 @@ Cuff-based BP measurement methods provide intermittent measurements, which are u
 
 For multimodality system-on-a-chip design, I would like to focus on both on-chip and off-chip electroanalysis platforms for biomarker detection and drug analysis. The traditional electrochemical analysis (off-chip) depends on a standalone sampling technique followed by lab-based analysis. It is time-consuming, expensive, and complex due to preservation and shipping issues. Despite its drawbacks, it is widely used for biochemical estimations in low and middle-income countries. Therefore, I would like to extend its capabilities by incorporating novel quantitative and semi-quantitative electrochemical analysis techniques.
 
-#### Reference Papers - Ainla (ACS'2018)
+#### Reference Papers - Ainla (ACS'2018), Jie Wu (Nature'2023)
 
 The latest scientific developments in electronics, sensing elements, and wireless data transmission permit real-time and uninterrupted estimations of analytes. A compact electrochemical sensing platform (on-chip) is widely used for its high accuracy, quick response, low cost, small form factors, and low power utilization properties. However, most of the existing electrochemical readout interfaces focus on a single modality constrained to a particular sensing pattern, which can’t offer enough details for a comprehensive diagnosis. Recently, multimodal electrochemistry has drawn substantial attention in wearable healthcare systems to detect biochemical parameters. An electrochemical readout circuit consists of multiple components: (a) input waveform generator, (b) potentiostat architecture, (c) AFE architecture, and (d) digitization architecture. Similar to earlier cases, with the rise of big data and digital medicine, next-generation electroanalysis platforms (ex., smart bandages for wound healing progress measurement) will be able to use AI to optimize their design as well as uncover user-personalized health profiles.
 
-### Reference papers - Yung-Lu [TBCAS'22], Gao [Nature'23] , Gao [Nature'16]
+### Reference papers - Yung-Lu [TBCAS'22], Gao [Nature'23], Gao [Nature'16]
 
 ## Power Management IC Design for Edge Devices 
 
