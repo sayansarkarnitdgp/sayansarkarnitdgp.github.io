@@ -12,6 +12,8 @@ My extracurricular work can be broadly divided into four segments.
 
 ## Photography 
 
+![plot](/images/dp.jpg)
+
 ## Travel 
 My first trek from Gangotri to Gomukh
 
