@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## GE Edison challenge 
 
-![plot](/images//ge edison.jpg)
+![plot](/images//ge.jpg)
 
 ## Start of Entreurship Journey 
 
