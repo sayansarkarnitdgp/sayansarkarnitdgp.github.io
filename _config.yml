@@ -157,9 +157,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "true"
+excerpt_separator: <!-- excerpt-end -->
 incremental: false
-
 
 # Markdown Processing
 kramdown:
