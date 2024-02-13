@@ -16,6 +16,8 @@ Education
 
 Research experience
 ======
+* 2018-2023: POstdoctoral Scholar
+  
 * 2018-2023: Research Assistant
   * Hong Kong University of Science and Technology, Hong Kong
   * Duties included: Design of on-chip encrypted optical nerve stimulator and closed loop wireless power transfer system 
