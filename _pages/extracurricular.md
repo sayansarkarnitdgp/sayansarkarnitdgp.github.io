@@ -24,7 +24,7 @@ My first trek from Gangotri to Gomukh in Uttarakhand, India
 
 ![plot](/images/trek.jpg)
 
-## Europe
+## Europe (Summer' 2022)
 
 ### France 
 
