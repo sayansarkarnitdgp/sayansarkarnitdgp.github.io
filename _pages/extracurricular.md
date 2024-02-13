@@ -18,12 +18,13 @@ My extracurricular work can be broadly divided into four segments.
 ### HongKong 
 ![plot](/images/abhishek.jpg)
 
-### Europe
 
 ## Travel 
-My first trek from Gangotri to Gomukh
+My first trek from Gangotri to Gomukh in Uttarakhand, India
 
 ![plot](/images/trek.jpg)
+
+## Europe
 
 ### France 
 
