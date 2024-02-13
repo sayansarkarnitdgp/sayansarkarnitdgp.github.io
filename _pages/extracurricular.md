@@ -12,7 +12,7 @@ My extracurricular work can be broadly divided into four segments.
 
 ## Photography 
 
-### India
+### Kolkata, India
 ![plot](/images/dp.jpg)
 
 ### HongKong 
