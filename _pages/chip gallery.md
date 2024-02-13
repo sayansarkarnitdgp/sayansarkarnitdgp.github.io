@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-## On-chip Encrypted Head-mounted Retinal Stimulation Unit
+## On-chip Encrypted Head-mounted Optical Nerve Stimulator 
 
 ![plot](/images/encrpt-implant2.jpg)
 
