@@ -19,7 +19,7 @@ In the first part of the course, I would like to teach an overview, applications
 
 ## Mixed-signal IC Design 
 
-In this course, I would like to systematically introduce major issues of mixed-signal circuit designs and their applications in bio-medical and sensory systems. The first half course is dedicated to mixed-signal IC design. The course starts with 2 review classes on OPAMP design, filter design, and circuit noise. Then, the course covers topics on pipelined ADC, Sigma-delta ADC, and SAR ADC. The second half course is dedicated to sensory and bio-medical IC design. The topics include bio-potential detection, implants, DNA detection, CCD, CMOS imaging.
+In this course, I would like to systematically introduce major issues of mixed-signal circuit designs and their applications in bio-medical and sensory systems. The first half course is dedicated to mixed-signal IC design. The course starts with 2 review classes on OPAMP design, filter design, and circuit noise. Then, the course covers topics on pipelined ADC, Sigma-delta ADC, and SAR ADC. The second half course is dedicated to sensory and bio-medical IC design. The topics include bio-potential detection, implants, DNA detection, CCD, and CMOS imaging.
 
 ## Power Management IC Design (Part 1 and 2) ##
 
@@ -32,14 +32,14 @@ This course builds on the fundamental knowledge of biosensors and bioinstrumenta
 # At HKUST, I worked as a TA for the following courses.
 
 ## Power Management Integrated Circuit Design ##
-Instructor - Wing Hung Ki; class strength -20
+Instructor - Dr. Wing Hung Ki; class strength -20
 
 ## Analog IC Analysis and Design ##
-Instructor - Wing Hung Ki; class strength - 100
+Instructor - Dr. Wing Hung Ki; class strength - 100
 
 ## Introduction to Embedded Systems ##
-Instructor - Kam Tim Woo, class strength -120
+Instructor - Dr. Kam Tim Woo, class strength -120
 
 ## Introduction to Integrated Circuits and Systems ##
-Instructor - Howard Luong, class strength - 100
+Instructor - Dr. Howard Luong, class strength - 100
 
