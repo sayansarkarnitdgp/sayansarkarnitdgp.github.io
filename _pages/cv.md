@@ -11,25 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electronics and Computer Engineering, Hong Kong University of Science and Technology, Hong Kong, 2023
+* Ph.D. in Electronics and Computer Engineering, Hong Kong University of Science and Technology, Hong Kong, 2023
 * B.Tech in Electrical Engineering, National Institute of Technology, Durgapur, 2016
 
 Research experience
 ======
-* 2018-2023: POstdoctoral Scholar
+* 2018-2023: Postdoctoral Scholar, Penn State University
+  Supervisor: Professor Mehdi Kiani 
   
-* 2018-2023: Research Assistant
-  * Hong Kong University of Science and Technology, Hong Kong
+* 2018-2023: Research Assistant, Hong Kong University of Science and Technology, Hong Kong
   * Duties included: Design of on-chip encrypted optical nerve stimulator and closed loop wireless power transfer system 
   * Supervisor: Professor Wing Hung Ki and Professor Chi Ying Tsui
 
-* 2015: Research Assistant
-  * Indian Insitute of Technology, New Delhi, India
+* 2015: Research Assistant, Indian Insitute of Technology, New Delhi, India
   * Duties included: Numerical Electromagnetics for classical electromagnetism problem
   * Supervisor: Professor Mashuq-un-Nabi
  
-* 2015: Research Assistant
-  * National Institute Of Technology, Durgapur, West Bengal, India 
+* 2015: Research Assistant, National Institute Of Technology, Durgapur, West Bengal, India 
   * Duties included: Analog controller design for Boost Converter 
   * Supervisor: Professor Subrata Banerjee
 
