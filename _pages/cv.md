@@ -17,7 +17,8 @@ Education
 Research experience
 ======
 * 2018-2023: Postdoctoral Scholar, Penn State University
-  Supervisor: Professor Mehdi Kiani 
+* Duties include: Design of a Smart Ultrasonic Node (SUN) for structural health monitoring and the development of a hybrid magnetic-ultrasonic wireless interrogation unit for small-size biomedical implants.
+* Supervisor: Professor Mehdi Kiani 
   
 * 2018-2023: Research Assistant, Hong Kong University of Science and Technology, Hong Kong
   * Duties included: Design of on-chip encrypted optical nerve stimulator and closed loop wireless power transfer system 
@@ -33,9 +34,14 @@ Research experience
 
 Work experience
 ======
+*  2015: Senior Analog Design Engineer 
+  * Point Technology, Hong Kong 
+  * Duties included: Wearable potentiostat design for novel ultra-high-molecular-weight polyethylene (UHMWPE) nanomembrane-based sweat sensor for muscle fatigue detection.
+
+    
 *  2015: Assistant Manager
-  * Coal India Limited
-  * Duties included Charge of electromechanical activities of an underground semi-mechanized coal mine.
+  * Coal India Limited, India
+  * Duties included: Incharge of electromechanical activities of an underground semi-mechanized coal mine.
   * Supervisor: Mr. Sanajay Mandal, Mr. Anil Kumar Sinha and Mr. Swarup De
 
 Skills
