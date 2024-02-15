@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electronics and Computer Engineering, HKUST, Hong Kong, 2023
+* Ph.D in Electronics and Computer Engineering, Hong Kong University of Science and Technology, Hong Kong, 2023
 * B.Tech in Electrical Engineering, National Institute of Technology, Durgapur, 2016
 
 Research experience
