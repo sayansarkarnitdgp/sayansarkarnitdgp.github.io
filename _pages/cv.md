@@ -17,8 +17,8 @@ Education
 Research experience
 ======
 * 2018-2023: Postdoctoral Scholar, Penn State University
-* Duties include: Design of a Smart Ultrasonic Node (SUN) for structural health monitoring and the development of a hybrid magnetic-ultrasonic wireless interrogation unit for small-size biomedical implants.
-* Supervisor: Professor Mehdi Kiani 
+  * Duties include: Design of a Smart Ultrasonic Node (SUN) for structural health monitoring and the development of a hybrid magnetic-ultrasonic wireless interrogation unit for small-size biomedical implants.
+  * Supervisor: Professor Mehdi Kiani 
   
 * 2018-2023: Research Assistant, Hong Kong University of Science and Technology, Hong Kong
   * Duties included: Design of on-chip encrypted optical nerve stimulator and closed loop wireless power transfer system 
@@ -35,7 +35,7 @@ Research experience
 Work experience
 ======
 *  2015: Senior Analog Design Engineer 
-  * Point Technology, Hong Kong 
+  * PointFit Technology, Hong Kong 
   * Duties included: Wearable potentiostat design for novel ultra-high-molecular-weight polyethylene (UHMWPE) nanomembrane-based sweat sensor for muscle fatigue detection.
 
     
@@ -47,7 +47,7 @@ Work experience
 Skills
 ======
 * Matlab Simulink
-* Analog circuit design 
+* Analog circuit design and Layout 
   * Virtuoso
   * Sub-skill 2.2
   * Sub-skill 2.3
