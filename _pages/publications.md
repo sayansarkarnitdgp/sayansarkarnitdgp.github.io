@@ -10,7 +10,9 @@ Reverse Chronological order
 
 # Journals 
 
-[J4] Sayan Sarkar, Aayushman Ghosh, ["Schrödinger spectrum based continuous cuff-less blood pressure estimation using clinically relevant features from PPG signal and its second derivative"](https://www.sciencedirect.com/science/article/abs/pii/S0010482523010235), Computers in Biology and Medicine, Volume 166,2023,107558.
+[J5] S. Sarkar, A. Ghosh, ["Schrödinger Spectrum and Slim CNN Architecture-based Signal Quality Estimation for Photoplethysmogram Signals"](https://www.sciencedirect.com/science/article/pii/S1746809424002982), Biomedical Signal Processing and Control
+
+[J4] S. Sarkar, A. Ghosh, ["Schrödinger spectrum based continuous cuff-less blood pressure estimation using clinically relevant features from PPG signal and its second derivative"](https://www.sciencedirect.com/science/article/abs/pii/S0010482523010235), Computers in Biology and Medicine, Volume 166,2023,107558.
 
 [J3] Y. Yao, S. Sarkar, W. -H. Ki and C. -Y. Tsui, ["Analysis and Prevention of Coupling-Dependent Data Flipping in Wireless Power Transfer Systems," in IEEE Transactions on Power Electronics",](https://ieeexplore.ieee.org/abstract/document/10122992) vol. 38, no. 8, pp. 10460-10469, Aug. 2023. 
 
