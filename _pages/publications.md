@@ -21,7 +21,7 @@ Reverse Chronological order
 [J1] A. Jena, S. Sarkar, and M. N.-Nabi, ["Mathematical Analysis of Modified BEM-FEM Coupling Approach for 3D Electromagnetic Levitation Problem"](https://arxiv.org/abs/2108.09632), published in arxiv.
 
 # Conference
-[C34] S. Sarkar, ["Signal Quality Assessment of Photoplethysmogram Signals using Quantum Pattern Recognition Technique and lightweight CNN Module,"](https://ieeexplore.ieee.org/abstract/document/9871494) 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Glasgow, Scotland, United Kingdom, 2022, pp. 3382-3386, 
+[C34] S. Sarkar, ["An Integrated Multipurpose Low-Power Electrochemical Readout Interface with On-Chip Input Waveform Generatore,"]([https://ieeexplore.ieee.org/abstract/document/9871494](https://ieeexplore.ieee.org/document/10483484)) 2024 37th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID), Kolkata, India, 2024, 
 
 [C33] S. Sarkar, ["Signal Quality Assessment of Photoplethysmogram Signals using Quantum Pattern Recognition Technique and lightweight CNN Module,"](https://ieeexplore.ieee.org/abstract/document/9871494) 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Glasgow, Scotland, United Kingdom, 2022, pp. 3382-3386, 
 
