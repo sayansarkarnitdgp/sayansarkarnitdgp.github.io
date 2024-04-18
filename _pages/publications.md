@@ -22,9 +22,9 @@ Reverse Chronological order
 
 # Conference
 
-[C28] S. Sarkar, Y. Yuan, W. -H. Ki and C. -Y. Tsui, ["A Fully Integrated Reconfigurable Transmitter for Bioimplants"](https://ieeexplore.ieee.org/abstract/document/9871494) 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Florida, USA
+[C35] S. Sarkar, Y. Yuan, W. -H. Ki and C. -Y. Tsui, ["A Fully Integrated Reconfigurable Transmitter for Bioimplants"](https://ieeexplore.ieee.org/abstract/document/9871494) 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Florida, USA
 
-[C27] S. Sarkar, J. Jiang, W. -H. Ki and C. -Y. Tsui, ["Adaptive Digitally Controlled Active Rectifier based Receiver for Bioimplants,"] 2024 IEEE International Symposium on Circuits and Systems (ISCAS), Singapore
+[C34] S. Sarkar, J. Jiang, W. -H. Ki and C. -Y. Tsui, ["Adaptive Digitally Controlled Active Rectifier based Receiver for Bioimplants,"] 2024 IEEE International Symposium on Circuits and Systems (ISCAS), Singapore
 
 [C33] S. Sarkar, ["An Integrated Multipurpose Low-Power Electrochemical Readout Interface with On-Chip Input Waveform Generatore,"](https://ieeexplore.ieee.org/document/10483484) 2024 37th International Conference on VLSI Design and 2024 23rd International Conference on Embedded Systems (VLSID), Kolkata, India, 2024, 
 
