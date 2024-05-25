@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* 2018-2023: Postdoctoral Scholar, Penn State University
+* 2024-Till date: Postdoctoral Scholar, Penn State University
   * Duties include: Design of a Smart Ultrasonic Node (SUN) for structural health monitoring and the development of a hybrid magnetic-ultrasonic wireless interrogation unit for small-size biomedical implants.
   * Supervisor: Professor Mehdi Kiani 
   
@@ -25,7 +25,7 @@ Research experience
   * Supervisor: Professor Wing Hung Ki and Professor Chi Ying Tsui
 
 * 2015: Research Assistant, Indian Insitute of Technology, New Delhi, India
-  * Duties included: Numerical Electromagnetics for classical electromagnetism problem
+  * Duties included : Numerical Electromagnetics for classical electromagnetism problem
   * Supervisor: Professor Mashuq-un-Nabi
  
 * 2015: Research Assistant, National Institute Of Technology, Durgapur, West Bengal, India 
