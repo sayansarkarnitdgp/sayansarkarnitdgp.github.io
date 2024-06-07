@@ -34,12 +34,12 @@ Wecare comes to an end due to the founder's exit.
 
 ## Coal India Limited (Full-time)
 
-During my 2 years tenure in Coal India, I was posted at Ningha Colliery, Sripur area, ECL, West Bengal, India. In-charge of overall electromechanical engineering activities (working load – 7 MVA) of an underground semi-mechanized coal mine.
+During my 2 years tenure in Coal India, I was posted at Ningha Colliery, Sripur area, ECL (a subsidiary of Coal India Limited), West Bengal, India. In charge of overall electromechanical engineering activities (working load – 7 MVA) of an underground semi-mechanized coal mine.
 
 ![plot](/images/IMG-20211007-WA0018.jpg)
 
 ### Key achievements ###
-1. Designed power supply LT overhead lines more than 5 km in length worth more than 30 lakhs
+1. Designed overhead line infrastructure (5 km in length) for power supply in the vicinity of Coal Mine. Work order worth more than 30 lakhs INR.
 2. Surveyed off 2 trucks and 1 jeep car after completion of their life cycle.
 3. Spearheaded a team of 5 supervisors, 15 electricians, and 20 electric helpers for round-the-clock operation and maintenance of electrical and mechanical equipment of Ningha Colliery in the Sripur area.
 4. Achieved Zero accidents, zero serious injuries and zero material losses, and 8% production increment from on a YoY basis in the duration of aug’2016 to July'2018.
@@ -56,4 +56,4 @@ During my 2 years tenure in Coal India, I was posted at Ningha Colliery, Sripur 
 I joined NTPC (National Thermal Power Corporation) as a summer trainee under the able guidance of Mr. Atanu Nandan Das in the Electrical Maintenance Department and Successfully completed the project on Switch yard and Transformer protection schemes.
 
 ## Calcutta Electric Supply Limited (Intern)
-I joined CESC(Calcutta Electric Supply Corporation) Ltd. as a winter intern under the guidance of Senior Manager MR. R P Chakraborty and MR. Arghya Sanyal in the Testing and commissioning section (Metering department ) and successfully acquired hands-on experience in HT metering, underground cable joining, transformer testing,Numerical differential relay testing, and consumer model protection scheme.
+I joined CESC(Calcutta Electric Supply Corporation) Ltd. as a winter intern under the guidance of Senior Manager Mr. R P Chakraborty and MR. Arghya Sanyal in the Testing and Commissioning section (Metering department ) and successfully acquired hands-on experience in HT metering, underground cable joining, transformer testing, Numerical differential relay testing, and consumer model protection scheme.
