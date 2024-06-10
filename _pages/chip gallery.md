@@ -8,15 +8,15 @@ redirect_from:
 
 ---
 
-## On-chip Encrypted Head-mounted Optical Nerve Stimulator 
+## On-chip Encrypted Optical Nerve Stimulator 
 
 ![plot](/images/encrpt-implant2.jpg)
 
-## Reconfigurable Transmitter and Adaptive Digitally Controlled Active Rectifier 
+## Reconfigurable Transmitter and Adaptive Digitally Controlled Active Rectifier-based Receiver
 
 ![plot](/images/open loop_.jpg)
 
-## Closed-loop Wireless Power Transfer 
+## Closed-loop Wireless Power Transfer System 
 
 ![plot](/images/closed loop_.jpg)
 
