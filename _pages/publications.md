@@ -10,6 +10,8 @@ Reverse Chronological order
 
 # Journals 
 
+[J6]  S. Sarkar, Y. Yao W. -H. Ki and C. -Y. Tsui, ["Prince Cipher and eFUSE Based Embedded Encryption System for Optical Nerve Stimulator",]() vol. 38, no. 8, pp. 10460-10469, Aug. 2023. 
+
 [J5] S. Sarkar, A. Ghosh, ["Schrödinger Spectrum and Slim CNN Architecture-based Signal Quality Estimation for Photoplethysmogram Signals"](https://www.sciencedirect.com/science/article/pii/S1746809424002982), Biomedical Signal Processing and Control, Volume 94,2024,106240.
 
 [J4] S. Sarkar, A. Ghosh, ["Schrödinger spectrum based continuous cuff-less blood pressure estimation using clinically relevant features from PPG signal and its second derivative"](https://www.sciencedirect.com/science/article/abs/pii/S0010482523010235), Computers in Biology and Medicine, Volume 166,2023,107558.
