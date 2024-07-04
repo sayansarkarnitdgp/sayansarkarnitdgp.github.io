@@ -18,7 +18,7 @@ Reverse Chronological order
 
 [J3] Y. Yao, S. Sarkar, W. -H. Ki and C. -Y. Tsui, ["Analysis and Prevention of Coupling-Dependent Data Flipping in Wireless Power Transfer Systems," in IEEE Transactions on Power Electronics",](https://ieeexplore.ieee.org/abstract/document/10122992) vol. 38, no. 8, pp. 10460-10469, Aug. 2023. 
 
-[J2] A. Ghosh, S. Sarkar, S. Roy ["Design of Ultrafast All-Optical Pseudo Binary Random Sequence Generator, 4-bit Multiplier and Divider using 2 x 2 Silicon Micro-ring Resonators"](), published in arxiv.
+[J2] A. Ghosh, S. Sarkar, S. Roy ["Design of Ultrafast All-Optical Pseudo Binary Random Sequence Generator, 4-bit Multiplier and Divider using 2 x 2 Silicon Micro-ring Resonators"](https://arxiv.org/abs/2210.04293), published in arxiv.
 
 [J1] A. Jena, S. Sarkar, and M. N.-Nabi, ["Mathematical Analysis of Modified BEM-FEM Coupling Approach for 3D Electromagnetic Levitation Problem"](https://arxiv.org/abs/2108.09632), published in arxiv.
 
