@@ -10,7 +10,7 @@ Reverse Chronological order
 
 # Journals 
 
-[J6]  S. Sarkar, Y. Yao W. -H. Ki and C. -Y. Tsui, ["Prince Cipher and eFUSE Based Embedded Encryption System for Optical Nerve Stimulator",]() in IEEE Sensors 
+[J6]  S. Sarkar, Y. Yao, W. -H. Ki and C. -Y. Tsui, ["Prince Cipher and eFUSE Based Embedded Encryption System for Optical Nerve Stimulator",]() in IEEE Sensors (Major revision)
 
 [J5] S. Sarkar, A. Ghosh, ["Schrödinger Spectrum and Slim CNN Architecture-based Signal Quality Estimation for Photoplethysmogram Signals"](https://www.sciencedirect.com/science/article/pii/S1746809424002982), Biomedical Signal Processing and Control, Volume 94,2024,106240.
 
