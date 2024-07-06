@@ -9,6 +9,8 @@ redirect_from:
 Reverse Chronological order 
 
 # Journals 
+[J9]  S. Sarkar, Y. Yao, W. -H. Ki and C. -Y. Tsui, ["Inductor Current Analysis of Class-D PA with Series Resonant Tank at Different Operating Frequencies",]() in IEEE TCAS I (Major revision)
+
 [J8]  S. Sarkar, Y. Yao, W. -H. Ki and C. -Y. Tsui, ["Hysteresis-dependent Synchronized load shift keying and Reconfigurable Class-D PA based Fully Integrated Adaptive Control in Wireless Power Transfer System",]() in IEEE TCAS I (Major revision)
 
 [J7]  S. Sarkar, Y. Yao, W. -H. Ki and C. -Y. Tsui, ["Analysis of Off-Resonant Flexible Tertiary Coils in Biomedical Implants for Back Telemetry Detection",]() in IEEE TCAS I (Major revision)
