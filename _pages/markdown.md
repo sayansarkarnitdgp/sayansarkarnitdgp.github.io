@@ -24,6 +24,8 @@ At the start of summer 2016, I got an invitation for Kalpana 2016 (a nationwide 
 
 ![plot](/images//eureka prize.jpg)
 
+![plot](/images//9.jpg)
+
 ## IIM Kolkata Phase 
 
 ![plot](/images//tsec_best.jpg)
