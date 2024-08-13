@@ -22,7 +22,7 @@ At the start of summer 2016, I got an invitation for Kalpana 2016 (a nationwide 
 
 ## IIT Bombay Phase 
 
-![plot](/images//eureka photo.jpg)
+![plot](/images//eureka prize.jpg)
 
 ## IIM Kolkata Phase 
 
