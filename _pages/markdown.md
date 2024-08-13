@@ -28,7 +28,7 @@ At the start of summer 2016, I got an invitation for Kalpana 2016 (a nationwide 
 
 ## IIM Kolkata Phase 
 
-![plot](/images//tsec_best.jpg)
+![plot](/images//tsec_best.JPG)
 
 ## IIT Kharagpur Phase 
 
