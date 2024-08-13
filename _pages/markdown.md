@@ -44,6 +44,9 @@ At the start of summer 2016, I got an invitation for Kalpana 2016 (a nationwide 
 
 ##  Social Entrepreneurship at HKUST - Active Global
 
+![plot](/images//important.jpg)
+
+
 
 
 
