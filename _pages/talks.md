@@ -12,11 +12,11 @@ redirect_from:
 # Tech Talks
 ## "Back Telemetry of 3-Coil WPT and 2-Coil WPT for Biomedical Implants" HKUST, Hong Kong, 2022
 
-###Flyer of the talk 
+### Flyer of the talk 
 
 ![plot](/images/image001.jpg)
 
-###Glimpse of the presentation 
+### Glimpse of the presentation 
 
 ![plot](/images/Picture4.jpg)
 
