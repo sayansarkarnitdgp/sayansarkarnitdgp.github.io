@@ -12,6 +12,8 @@ redirect_from:
 # Tech Talks
 ## "Back Telemetry of 3-Coil WPT and 2-Coil WPT for Biomedical Implants" HKUST, Hong Kong, 2022
 
+![plot](/images/image001.jpg)
+
 ### Synopsis -  
 The wireless power transfer (WPT) system is widely adopted as a battery-less solution for biomedical implants. The system consists of a transmitter (TX) primary coil and a receiver (RX) secondary coil. During wireless power transfer, both the loading current of the receiver and the coupling coefficient (k) between the primary and secondary coils may change, which will affect the output voltage of the receiver (Vo). A communication link from the RX side to the TX side, known as back telemetry (BT), could be used to report the RX side status to the TX side, and to maintain a regulated and steady Vo. One popular backscattering scheme is load shift keying (LSK) due to its simple circuit architecture, low power consumption, and small area requirements. In this research, we propose two LSK detection schemes.
 
