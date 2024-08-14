@@ -28,7 +28,7 @@ Research experience
   * Duties included: Numerical Electromagnetics for classical electromagnetism problem
   * Supervisor: Professor Mashuq-un-Nabi
  
-* 2015: Research Assistant, National Institute Of Technology, Durgapur, West Bengal, India 
+* 2015-2016: Research Assistant, National Institute Of Technology, Durgapur, West Bengal, India 
   * Duties included: Analog controller design for Boost Converter 
   * Supervisor: Professor Subrata Banerjee
 
