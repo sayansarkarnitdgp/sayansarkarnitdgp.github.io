@@ -36,7 +36,7 @@ Research experience
 
 Work experience
 ======
-*  2023: Senior Analog Design Engineer/ ANalog lead 
+*  2023: Senior Analog Design Engineer/ Analog lead 
   * PointFit Technology, Hong Kong 
   * Duties included: Wearable potentiostat design using novel ultra-high-molecular-weight polyethylene (UHMWPE) nanomembrane-derived sweat sensor-based muscle fatigue detection.
 
