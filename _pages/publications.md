@@ -15,7 +15,7 @@ Reverse Chronological order
 
 [J7]  S. Sarkar, Y. Yao, W. -H. Ki and C. -Y. Tsui, ["Analysis of Off-Resonant Flexible Tertiary Coils in Biomedical Implants for Back Telemetry Detection",](https://ieeexplore.ieee.org/document/10607967) in IEEE TCAS I
 
-[J6]  S. Sarkar, Y. Yao, W. -H. Ki and C. -Y. Tsui, ["Prince Cipher and eFUSE Based Embedded Encryption System for Optical Nerve Stimulator",](https://ieeexplore.ieee.org/document/10637962) in IEEE Sensors 
+[J6]  S. Sarkar, Y. Yao, C. -Y. Tsui and W. -H. Ki ["Prince Cipher and eFUSE Based Embedded Encryption System for Optical Nerve Stimulator",](https://ieeexplore.ieee.org/document/10637962) in IEEE Sensors 
 
 [J5] S. Sarkar, A. Ghosh, ["Schrödinger Spectrum and Slim CNN Architecture-based Signal Quality Estimation for Photoplethysmogram Signals"](https://www.sciencedirect.com/science/article/pii/S1746809424002982), Biomedical Signal Processing and Control, Volume 94,2024,106240.
 
