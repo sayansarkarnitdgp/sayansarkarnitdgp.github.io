@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Pointfit Technology (Part-time) - HKUST spinoff
-I worked as a senior analog design engineer for Wearable potentiostat design, which can be used for sweat sensor-based muscle fatigue detection (Lactate sensing). During my tenure, the startup was recognized under the Forbes 30 under 30 category and Alibaba Entrepreneurship Fund (Top 30).
+Striking the right balance during exercise is a challenge for health-conscious people of every age and at every level. Overtrain or push yourself too hard and you risk fatigue, underperformance, or even injury. In order to continue my pursuit of wearable design, I worked as a senior analog design engineer for Wearable potentiostat design, which can be used for sweat sensor-based muscle fatigue detection (Lactate sensing). The startup utilized Ultra-High Molecular Weight Polyethylene (UHMWPE) technology, which was invented by Professor GAO Ping of the HKUST Chemical and Biological Engineering Department. During my tenure, the startup was recognized under the Forbes 30 under 30 category and Alibaba Entrepreneurship Fund (Top 30).
 
 [Company website](https://pointfittech.com/")
 
