@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Pointfit Technology (Part-time)
-
+I worked as a senior analog design engineer for Wearable potentiostat design which can be used for sweat sensor-based muscle fatigue detection.
 
 ## Wecare Medservice LLP (Co-founder and CEO)
 
