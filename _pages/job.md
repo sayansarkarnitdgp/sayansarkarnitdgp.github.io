@@ -13,7 +13,7 @@ I worked as a senior analog design engineer for Wearable potentiostat design, wh
 
 ["Analysis of Off-Resonant Flexible Tertiary Coils in Biomedical Implants for Back Telemetry Detection",](https://ieeexplore.ieee.org/document/10607967)
 
-https://pointfittech.com/
+[Company website](https://pointfittech.com/")
 
 Working demo (https://www.facebook.com/hkust/videos/2612826205532662)
 
