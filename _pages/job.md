@@ -11,11 +11,9 @@ redirect_from:
 ## Pointfit Technology (Part-time) - HKUST spinoff
 I worked as a senior analog design engineer for Wearable potentiostat design, which can be used for sweat sensor-based muscle fatigue detection (Lactate sensing). During my tenure, the startup was recognized under the Forbes 30 under 30 category and Alibaba Entrepreneurship Fund (Top 30).
 
-["Analysis of Off-Resonant Flexible Tertiary Coils in Biomedical Implants for Back Telemetry Detection",](https://ieeexplore.ieee.org/document/10607967)
-
 [Company website](https://pointfittech.com/")
 
-Working demo (https://www.facebook.com/hkust/videos/2612826205532662)
+[Working demo](https://www.facebook.com/hkust/videos/2612826205532662)
 
 ## Wecare Medservice LLP (Co-founder and CEO)
 
