@@ -13,7 +13,7 @@ I worked as a senior analog design engineer for Wearable potentiostat design, wh
 
 https://pointfittech.com/
 
-https://www.facebook.com/hkust/videos/2612826205532662
+Working demo (https://www.facebook.com/hkust/videos/2612826205532662)
 
 ## Wecare Medservice LLP (Co-founder and CEO)
 
