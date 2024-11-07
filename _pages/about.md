@@ -48,6 +48,8 @@ The latest scientific developments in electronics, sensing elements, and wireles
 ## Power Management IC Design for Edge Devices 
 Over the past five decades, we have witnessed technological innovations, thanks to the invention of the integrated-circuit (IC) technology, which makes possible the development of various system-on-chips (SoCs) that, with low power consumption, can pack tremendous computing power into very small footprints. Small but smart and low-power, SoCs are thus essential in most battery-powered portable/wearable devices requiring distributed intelligence, such as in wireless sensor nodes for Implantable or wearable devices. Therefore, there is a surge off integrated DC-DC converter having very low output voltage ripple making it suitable for analog applications, which are sensitive to supply noise. Similarly, hybrid converters and multi-output converters are also gaining attention for coping up with the different requirements. I would like to focus on the broad spectrum of converter-controller design, switch cap., charge pump, BGR etc.
 
+![plot](/images/converter.jpg)
+
 #### Reference papers - Dam [TPEL'2021], Bartolini [JESTPE'2023]
 
 ## HV driver design for Piezoelectric (CMUT and PMUT) devices 
