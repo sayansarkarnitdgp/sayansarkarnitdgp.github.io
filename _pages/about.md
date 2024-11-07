@@ -33,6 +33,8 @@ Cuff-based BP measurement methods provide intermittent measurements, which are u
 
 For multimodality system-on-a-chip design, I would like to focus on both on-chip and off-chip electroanalysis platforms for biomarker detection and drug analysis. The traditional electrochemical analysis (off-chip) depends on a standalone sampling technique followed by lab-based analysis. It is time-consuming, expensive, and complex due to preservation and shipping issues. Despite its drawbacks, it is widely used for biochemical estimations in low and middle-income countries. Therefore, I would like to extend its capabilities by incorporating novel quantitative and semi-quantitative electrochemical analysis techniques.
 
+![plot](/images/wearbale.jpg)
+
 #### Reference Papers - Ainla (ACS'2018), Jie Wu (Nature'2023)
 
 #### Biochemical signal acquisition 
