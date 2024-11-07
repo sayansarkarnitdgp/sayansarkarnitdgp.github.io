@@ -15,7 +15,7 @@ My research interests can be broadly classified into four segments. For ease of 
 ## Inductive or Ultrasonically Powered Secured Implantable Medical Devices for Neural/Retinal/Auditory Stimulation 
 I would like to develop a secured reconfigurable multimodal system on a chip (SoC) design that can record, process, and stimulate deep brain activity in humans/animals. Each recording channel changes its configuration depending on whether the channel is assigned to record voltage {action potentials and single-neuron LFP (local field potential) activity during stationary and ambulatory behavior in humans LFP} or current signal (concentration of neurotransmitters). It can lead to impactful discoveries within the neuroscience field and contribute to the development of novel therapies for neurological and psychiatric disorders. Similarly, electrical or optical stimulation for Deep brain stimulation (DBS) has been proven therapeutically effective for neurological disorders such as Parkinson’s disease, epilepsy, and Alzheimer’s disease. DBS involves injecting a designated amount of charge into the target neural tissue to initiate the functional response of neurons in patients unresponsive to pharmaceutical treatment.
 
-![plot](/images/implant_.png)
+![plot](/images/implant.jpg)
 
 
 #### Reference papers - Jia [TBioCAS'2020]
