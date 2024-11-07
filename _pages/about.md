@@ -35,13 +35,13 @@ For multimodality system-on-a-chip design, I would like to focus on both on-chip
 
 ![plot](/images/wearable.jpg)
 
-#### Reference Papers - Ainla (ACS'2018), Jie Wu (Nature'2023)
-
 #### Biochemical signal acquisition 
 
 The latest scientific developments in electronics, sensing elements, and wireless data transmission permit real-time and uninterrupted estimations of analytes. A compact electrochemical sensing platform (on-chip) is widely used for its high accuracy, quick response, low cost, small form factors, and low power utilization properties. However, most of the existing electrochemical readout interfaces focus on a single modality constrained to a particular sensing pattern, which can’t offer enough details for a comprehensive diagnosis. Recently, multimodal electrochemistry has drawn substantial attention in wearable healthcare systems to detect biochemical parameters. An electrochemical readout circuit consists of multiple components: (a) input waveform generator, (b) potentiostat architecture, (c) AFE architecture, and (d) digitization architecture. Similar to earlier cases, with the rise of big data and digital medicine, next-generation electroanalysis platforms (ex., smart bandages for wound healing progress measurement) will be able to use AI to optimize their design as well as uncover user-personalized health profiles.
 
-#### Reference papers - Yung-Lu [TBCAS'22], Gao [Nature'23], Gao [Nature'16]
+#### Reference papers (off-chip) - Yung-Lu [TBCAS'22],
+
+#### Reference Papers (on-chip) - Ainla (ACS'2018), Jie Wu (Nature'2023),  Gao [Nature'23], Gao [Nature'16]
 
 #### Physiological Signal Acquisition
 
