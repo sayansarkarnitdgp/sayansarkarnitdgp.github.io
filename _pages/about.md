@@ -57,6 +57,8 @@ Over the past five decades, we have witnessed technological innovations, thanks 
 
 ### HV driver design for Piezoelectric (CMUT and PMUT) devices 
 
+Ultrasonic (US) nodes are widely used in industrial [non-destructive testing (NDT)] and health (imaging and neuromodulation applications). Conventionally, the transducer is driven by a simple and compact Class-D pulser. However, this is associated with CV2 losses due to the charging and discharging of the transducer capacitance, which do not contribute to the acoustic output.  During my postdoc., I developed a high-voltage pulser to generate ultrasonic waves by driving an array of piezoelectric transducers. The pulser is powered by boosted voltage generated from thermoelectric and photovoltaic sources through energy harvesting by utilizing a cold-start topology-based Boost converter.  It generated two different voltages for pulser supply and digital control. The supply voltage is further utilized for high-voltage supply generation using a multi-stage charge pump. The analog-assisted digitally controlled novel pulser topology is composed of one low-voltage and four high-voltage power switches to optimize the trade-off between conduction losses, the number of generated pulses, recycling energy amount, and gate-drive losses. The pulser operates in four different modes, namely (a) charging, (b) pulsing, (c) freewheeling, and (d) recycling. One single charging cycle is capable of generating 7-8 14 V pulses for 60 pF CMUT and 20 μH inductance.
+
 If you are interested in the above areas and would like to discuss them, please feel free to email me. 
 
 Thanks for visiting my website.
