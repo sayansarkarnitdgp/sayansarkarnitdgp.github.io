@@ -29,7 +29,7 @@ Reverse Chronological order
 
 # Conference
 
-[C35] S. Sarkar, Y. Yuan, W. -H. Ki and C. -Y. Tsui, ["A Fully Integrated Reconfigurable Transmitter for Bioimplants,"] (https://ieeexplore.ieee.org/abstract/document/10782742) 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Florida, USA
+[C35] S. Sarkar, Y. Yuan, W. -H. Ki and C. -Y. Tsui, ["A Fully Integrated Reconfigurable Transmitter for Bioimplants,"](https://ieeexplore.ieee.org/abstract/document/10782742) 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), Florida, USA
 
 [C34] S. Sarkar, Y. Yuan, W. -H. Ki and C. -Y. Tsui, ["Adaptive Digitally Controlled Active Rectifier based Receiver for Bioimplants,"](https://ieeexplore.ieee.org/document/10558205) 2024 IEEE International Symposium on Circuits and Systems (ISCAS), Singapore
 
