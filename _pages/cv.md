@@ -16,10 +16,11 @@ Education
 ![plot](/images/degree certificate.png)
 * B.Tech in Electrical Engineering, National Institute of Technology, Durgapur, 2016
 
-Research experience
+Research experience (most important ones)
 ======
 * 2024-Till date: Postdoctoral Scholar, Penn State University
-  * Duties include the design of a Smart Ultrasonic Node (SUN) for structural health monitoring and the development of a hybrid magnetic-ultrasonic wireless interrogation unit for small-size biomedical implants.
+  * Duties include : design of a high-voltage pulse generator in Smart Ultrasonic Node (SUN) from low power energy sources (photovoltaic and thermoelectric) for structural health monitoring 
+  * Duties include : development of a hybrid magnetic-ultrasonic wireless transmitter unit for small-size biomedical implants.
   * Supervisor: Professor Mehdi Kiani 
   
 * 2018-2024: Research Assistant, Hong Kong University of Science and Technology, Hong Kong
