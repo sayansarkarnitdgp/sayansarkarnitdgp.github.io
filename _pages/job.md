@@ -8,9 +8,11 @@ redirect_from:
 
 ---
 ## Intel - Senior analog design engineer
-\\Drove full-chip and system-level validation, including power, performance, and reliability (PPA + aging/reliability simulations), ensuring compliance with product specifications and silicon readiness.
+Drove full-chip and system-level validation, including power, performance, and reliability (PPA + aging/reliability simulations), ensuring compliance with product specifications and silicon readiness.
 
-\\Collaborated cross-functionally with the layout, validation, and product teams to successfully deliver silicon across the Intel and Samsung technology nodes, allowing robust integration, post-silicon build-up, and optimized performance across process variations.
+Collaborated cross-functionally with the layout, validation, and product teams to successfully deliver silicon across the Intel and Samsung technology nodes, allowing robust integration, post-silicon build-up, and optimized performance across process variations.
+
+Part of team that designed nova lake, pelican peak, eagle peak, titan lake and gayle peak.
 
 ## Pointfit Technology (Part-time) - HKUST spinoff
 Striking the right balance during exercise is a challenge for health-conscious people of every age and at every level. Overtrain or push yourself too hard and you risk fatigue, underperformance, or even injury. In order to continue my pursuit of wearable design, I worked as a senior analog design engineer for Wearable potentiostat design, which can be used for sweat sensor-based muscle fatigue detection (Lactate sensing). The startup utilized Ultra-High Molecular Weight Polyethylene (UHMWPE) technology, which was invented by Professor GAO Ping of the HKUST Chemical and Biological Engineering Department. During my tenure, the startup was recognized under the Forbes 30 under 30 category and Alibaba Entrepreneurship Fund (Top 30).
